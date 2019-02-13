@@ -9,3 +9,6 @@ email: yarrow@sifry.com
 Collaborators
 name: Nicole Sallak Anderson
 email: nicole.sallak.anderson@gmail.com
+
+name: Gad Rosen
+email: gados2000@gmail.com
